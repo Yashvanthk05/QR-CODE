@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Yashvanthk05/QR-CODE.git/static/css/main.59de21f4.css",
-    "main.js": "/Yashvanthk05/QR-CODE.git/static/js/main.bc6d4bbd.js",
-    "static/media/background.jpg": "/Yashvanthk05/QR-CODE.git/static/media/background.64a6d5fb3ad25bfb50ca.jpg",
-    "index.html": "/Yashvanthk05/QR-CODE.git/index.html",
-    "main.59de21f4.css.map": "/Yashvanthk05/QR-CODE.git/static/css/main.59de21f4.css.map",
-    "main.bc6d4bbd.js.map": "/Yashvanthk05/QR-CODE.git/static/js/main.bc6d4bbd.js.map"
+    "main.css": "/QR-CODE/static/css/main.5599ad5a.css",
+    "main.js": "/QR-CODE/static/js/main.bc6d4bbd.js",
+    "static/media/background.jpg": "/QR-CODE/static/media/background.64a6d5fb3ad25bfb50ca.jpg",
+    "index.html": "/QR-CODE/index.html",
+    "main.5599ad5a.css.map": "/QR-CODE/static/css/main.5599ad5a.css.map",
+    "main.bc6d4bbd.js.map": "/QR-CODE/static/js/main.bc6d4bbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.59de21f4.css",
+    "static/css/main.5599ad5a.css",
     "static/js/main.bc6d4bbd.js"
   ]
 }
